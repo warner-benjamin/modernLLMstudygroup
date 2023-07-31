@@ -1,1 +1,1 @@
-# modernLLMstudygroup
+# Modern LLM Study Group Resources
