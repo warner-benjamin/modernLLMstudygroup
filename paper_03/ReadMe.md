@@ -2,7 +2,8 @@
 
 This week's paper is [*Chain-of-Thought Prompting Elicits Reasoning in Large Language Models*](https://arxiv.org/abs/2201.11903).
 
-Optional Reading:
+Further Reading:
+- [*Large Language Models are Zero-Shot Reasoners*](https://arxiv.org/abs/2205.11916)
 - [*Tree of Thoughts: Deliberate Problem Solving with Large Language Models*](https://arxiv.org/abs/2305.10601)
 - [*Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters*](https://arxiv.org/abs/2212.10001)
 - [*Measuring Faithfulness in Chain-of-Thought Reasoning*](https://arxiv.org/abs/2307.13702)
