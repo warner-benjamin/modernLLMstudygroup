@@ -7,5 +7,3 @@ Code: [*GitHub*](https://github.com/AkariAsai/self-rag)
 Further Reading: 
 * [*Active Retrieval Augmented Generation*](https://arxiv.org/abs/2305.06983)
 * [*SAIL: Search-Augmented Instruction Learning*](https://arxiv.org/abs/2305.15225)
-
-https://discord.com/events/689892369998676007/1168675243116740748
