@@ -1,0 +1,3 @@
+# TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language Modeling Likewise
+
+This week we will read and discuss [*TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language Modeling Likewise*](https://arxiv.org/abs/2310.19019), uses a series of small language models that can generate explanations for various NLP tasks, such as fundamentals, chain of thought, and common mistakes. The uses this to generate 58 NLP datasets. 
