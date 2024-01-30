@@ -1,6 +1,6 @@
 # TinyStories: How Small Can Language Models Be and Still Speak Coherent English?
 
-This week's paper is' [*TinyStories: How Small Can Language Models Be and Still Speak Coherent English?*](https://arxiv.org/abs/2305.07759)
+This week's paper is [*TinyStories: How Small Can Language Models Be and Still Speak Coherent English?*](https://arxiv.org/abs/2305.07759)
 
 TinyStories is an interesting paper for two reasons. First it's one of, if not the first, paper to use fully synthetic data for pretraining a language model. Second, it and similar datasets allow for us to practice pretraining language models in a reasonable amount of time on consumer hardware.
 
